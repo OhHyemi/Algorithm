@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Algorithm
 {
-    class Baekjun11399
+    class Baekjoon11399
     {
         public static void Main()
         {
