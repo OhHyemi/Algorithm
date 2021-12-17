@@ -39,6 +39,7 @@ namespace Algorithm21
                 {
                     return arr[index];
                 }
+                
 
                 arr[index] = (MyPownMod(2, index - 1) + GetAn(index - 2)) % mod;
                 return arr[index];
